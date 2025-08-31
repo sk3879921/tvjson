@@ -231,11 +231,6 @@
             "api": "https://p2100.net/api.php/provide/vod",
             "detail": "https://p2100.net"
         },
-        "api_47": {
-            "name": "TV-魔爪资源",
-            "api": "https://mozhuazy.com/api.php/provide/vod",
-            "detail": "https://mozhuazy.com"
-        },
         "api_50": {
             "name": "TV-黑木耳",
             "api": "https://json.heimuer.xyz/api.php/provide/vod",
@@ -360,10 +355,6 @@
             "api": "https://jszyapi.com/api.php/provide/vod",
             "name": "极速资源",
             "detail": "https://jszyapi.com"
-        },
-        "mozhua": {
-            "api": "https://mozhuazy.com/api.php/provide/vod",
-            "name": "魔爪资源"
         },
         "kauiboziyuan": {
             "api": "https://gayapi.com/api.php/provide/vod",
