@@ -365,10 +365,6 @@
             "api": "https://mozhuazy.com/api.php/provide/vod",
             "name": "魔爪资源"
         },
-        "mdzy": {
-            "api": "https://www.mdzyapi.com/api.php/provide/vod",
-            "name": "魔都资源"
-        },
         "kauiboziyuan": {
             "api": "https://gayapi.com/api.php/provide/vod",
             "name": "快播资源网站"
