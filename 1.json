@@ -28,10 +28,6 @@
       "name": "闈炲嚒褰辫",
       "detail": "http://ffzy5.tv"
     },
-    "zy360": {
-      "api": "https://360zy.com/api.php/provide/vod",
-      "name": "360璧勬簮"
-    },
     "maotaizy": {
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "name": "鑼呭彴璧勬簮"
@@ -154,11 +150,6 @@
             "name": "TV-如意资源",
             "api": "https://cj.rycjapi.com/api.php/provide/vod",
             "detail": ""
-        },
-        "api_16": {
-            "name": "TV-小猫咪资源",
-            "api": "https://zy.xmm.hk/api.php/provide/vod",
-            "detail": "https://zy.xmm.hk"
         },
         "api_17": {
             "name": "TV-新浪点播",
@@ -305,16 +296,6 @@
             "api": "https://p2100.net/api.php/provide/vod",
             "detail": "https://p2100.net"
         },
-        "api_47": {
-            "name": "TV-魔爪资源",
-            "api": "https://mozhuazy.com/api.php/provide/vod",
-            "detail": "https://mozhuazy.com"
-        },
-        "api_48": {
-            "name": "TV-魔都动漫",
-            "api": "https://caiji.moduapi.cc/api.php/provide/vod",
-            "detail": "https://caiji.moduapi.cc"
-        },
         "ffzynew": {
             "api": "https://api.ffzyapi.com/api.php/provide/vod",
             "name": "非凡影视new",
@@ -324,15 +305,6 @@
             "api": "https://jszyapi.com/api.php/provide/vod",
             "name": "极速资源",
             "detail": "https://jszyapi.com"
-        },
-        "mozhua": {
-            "api": "https://mozhuazy.com/api.php/provide/vod",
-            "name": "魔爪资源"
-        },
-        "mdzy": {
-            "api": "https://www.mdzyapi.com/api.php/provide/vod",
-            "name": "魔都资源"
-
         },
         "liangziziyuan": {
             "api": "https://cj.lziapi.com/api.php/provide/vod",
